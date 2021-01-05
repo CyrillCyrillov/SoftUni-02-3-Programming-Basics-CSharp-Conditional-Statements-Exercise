@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Еxercise02\Task06_Godzilla_vs_Kong\obj\Debug\netcoreapp3.1\Task06_Godzilla_vs_Kong.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Еxercise02\Task06_Godzilla_vs_Kong\obj\Debug\netcoreapp3.1\Task06_Godzilla_vs_Kong.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Еxercise02\Task06_Godzilla_vs_Kong\obj\Debug\netcoreapp3.1\Task06_Godzilla_vs_Kong.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Еxercise02\Task06_Godzilla_vs_Kong\obj\Debug\netcoreapp3.1\Task06_Godzilla_vs_Kong.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Еxercise02\Task06_Godzilla_vs_Kong\bin\Debug\netcoreapp3.1\Task06_Godzilla_vs_Kong.exe
+C:\Users\Kiril\source\repos\Еxercise02\Task06_Godzilla_vs_Kong\bin\Debug\netcoreapp3.1\Task06_Godzilla_vs_Kong.deps.json
+C:\Users\Kiril\source\repos\Еxercise02\Task06_Godzilla_vs_Kong\bin\Debug\netcoreapp3.1\Task06_Godzilla_vs_Kong.runtimeconfig.json
+C:\Users\Kiril\source\repos\Еxercise02\Task06_Godzilla_vs_Kong\bin\Debug\netcoreapp3.1\Task06_Godzilla_vs_Kong.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Еxercise02\Task06_Godzilla_vs_Kong\bin\Debug\netcoreapp3.1\Task06_Godzilla_vs_Kong.dll
+C:\Users\Kiril\source\repos\Еxercise02\Task06_Godzilla_vs_Kong\bin\Debug\netcoreapp3.1\Task06_Godzilla_vs_Kong.pdb
+C:\Users\Kiril\source\repos\Еxercise02\Task06_Godzilla_vs_Kong\obj\Debug\netcoreapp3.1\Task06_Godzilla_vs_Kong.dll
+C:\Users\Kiril\source\repos\Еxercise02\Task06_Godzilla_vs_Kong\obj\Debug\netcoreapp3.1\Task06_Godzilla_vs_Kong.pdb
+C:\Users\Kiril\source\repos\Еxercise02\Task06_Godzilla_vs_Kong\obj\Debug\netcoreapp3.1\Task06_Godzilla_vs_Kong.genruntimeconfig.cache
