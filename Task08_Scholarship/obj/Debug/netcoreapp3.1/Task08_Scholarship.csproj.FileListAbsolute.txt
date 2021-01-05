@@ -1,0 +1,13 @@
+C:\Users\Kiril\source\repos\Еxercise02\Task08_Scholarship\obj\Debug\netcoreapp3.1\Task08_Scholarship.csprojAssemblyReference.cache
+C:\Users\Kiril\source\repos\Еxercise02\Task08_Scholarship\obj\Debug\netcoreapp3.1\Task08_Scholarship.AssemblyInfoInputs.cache
+C:\Users\Kiril\source\repos\Еxercise02\Task08_Scholarship\obj\Debug\netcoreapp3.1\Task08_Scholarship.AssemblyInfo.cs
+C:\Users\Kiril\source\repos\Еxercise02\Task08_Scholarship\obj\Debug\netcoreapp3.1\Task08_Scholarship.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\source\repos\Еxercise02\Task08_Scholarship\bin\Debug\netcoreapp3.1\Task08_Scholarship.exe
+C:\Users\Kiril\source\repos\Еxercise02\Task08_Scholarship\bin\Debug\netcoreapp3.1\Task08_Scholarship.deps.json
+C:\Users\Kiril\source\repos\Еxercise02\Task08_Scholarship\bin\Debug\netcoreapp3.1\Task08_Scholarship.runtimeconfig.json
+C:\Users\Kiril\source\repos\Еxercise02\Task08_Scholarship\bin\Debug\netcoreapp3.1\Task08_Scholarship.runtimeconfig.dev.json
+C:\Users\Kiril\source\repos\Еxercise02\Task08_Scholarship\bin\Debug\netcoreapp3.1\Task08_Scholarship.dll
+C:\Users\Kiril\source\repos\Еxercise02\Task08_Scholarship\bin\Debug\netcoreapp3.1\Task08_Scholarship.pdb
+C:\Users\Kiril\source\repos\Еxercise02\Task08_Scholarship\obj\Debug\netcoreapp3.1\Task08_Scholarship.dll
+C:\Users\Kiril\source\repos\Еxercise02\Task08_Scholarship\obj\Debug\netcoreapp3.1\Task08_Scholarship.pdb
+C:\Users\Kiril\source\repos\Еxercise02\Task08_Scholarship\obj\Debug\netcoreapp3.1\Task08_Scholarship.genruntimeconfig.cache
